@@ -1,2 +1,3 @@
 # Blink Pattern
-###### The project lights all LEDs connected from pin 2 to pin 13 of the Arduino in a set pattern.
+
+The project lights up all LEDs in a set pattern.
